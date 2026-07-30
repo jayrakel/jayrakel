@@ -123,8 +123,6 @@ Designing software solutions that automate manual business processes, improve op
 
 ## GitHub Statistics
 
-## GitHub Statistics
-
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jayrakel&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayrakel&layout=compact&theme=github_dark&hide_border=true" />
