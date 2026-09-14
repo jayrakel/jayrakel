@@ -137,7 +137,7 @@ Designing software solutions that automate manual business processes, improve op
 ## Let's Connect
 
 - LinkedIn: **www.linkedin.com/in/nathan-m-gesora**
-- Email: **jaytechwavesolutions@gmail.com**
+- Email: **gesoranathan@gmail.com**
 - X: https://x.com/gesorajonathan
 
 ---
